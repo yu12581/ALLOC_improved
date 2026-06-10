@@ -1,0 +1,14 @@
+numpy==1.26.4
+scipy==1.15.2
+scikit-learn
+scikit-image
+imageio
+pillow
+torch
+torchvision
+tqdm
+opencv-python
+piq
+matplotlib
+jupyter
+ipykernel

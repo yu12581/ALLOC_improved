@@ -1,0 +1,31 @@
+runs/
+ablation_20ep/
+.venv/
+conda-py312/
+dataset/
+mnist/
+fashion_mnist/
+.cache/
+__pycache__/
+*.pyc
+.mplconfig/
+.tmp/
+.pip_cache/
+
+# 模型权重
+*.pth
+*.pt
+*.ckpt
+
+# 日志
+*.log
+*.err
+
+# 备份
+*.bak
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

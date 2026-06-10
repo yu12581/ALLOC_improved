@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+conda-py312/
+
+# Cache
+.cache/
+.pip_cache/
+.npm-cache/
+.mplconfig/
+.tmp/
+
+# Experiment outputs
+runs/
+ablation_20ep/
+
+# Dataset (regenerated data, no source code)
+dataset/
+mnist/
+fashion_mnist/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Local check scripts
+check_*.py
+
+# Backup copy (use alocc_src_only_fixed/ instead)
+alocc_src_only/
